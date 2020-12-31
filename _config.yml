@@ -29,8 +29,8 @@ github:
 
 social:
   name: viri4t0                  # it will shows as the copyright owner in Footer
-#  email: example@doamin.com             # change to your email address
-#  links:
+  email: example@doamin.com             # change to your email address
+  links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
